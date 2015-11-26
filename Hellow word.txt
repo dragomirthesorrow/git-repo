@@ -1,2 +1,3 @@
 print("hellow word")
 print("hellow all")
+print("hellow word")
